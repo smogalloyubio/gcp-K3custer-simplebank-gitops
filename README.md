@@ -21,6 +21,7 @@ The project separates banking functionality into independent backend services. T
 The application is designed for learning and infrastructure engineering demonstrations. It is not a production banking platform and does not process real financial transactions.
 
 ## 2. Architecture
+![project architectural diagram](https://github.com/smogalloyubio/gcp-K3custer-simplebank-gitops/blob/main/picture/ks3name.jpg)
 
 
 ### How the application works
